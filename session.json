@@ -380,7 +380,7 @@
               "baseKey": "BbBl8SvR30ON/eNBkLghb35+dJEwAlDMJZpOvgMmLgwP",
               "baseKeyType": 2,
               "closed": -1,
-              "used": 1657402643242,
+              "used": 1657402642028,
               "created": 1657402601242,
               "remoteIdentityKey": "BZXheZdlO7KCqCM0JgXqLWVOHEXAaPRstgAPQ/CnbLI8"
             },
@@ -401,16 +401,16 @@
               },
               "BdN6HUapyrmd5G1ZkAxIlqNtgtm7kx9CRCDSz/+YbuFp": {
                 "chainKey": {
-                  "counter": 5,
-                  "key": "tz2mpPm7lVFBnrbFLiArqRDCeHcjTj/G4QKBkytZJVY="
+                  "counter": 3,
+                  "key": "8CNEP0mY0Gx0S+SyAmWRv/meDgL3Tl+VSHzUuh6dnWM="
                 },
                 "chainType": 2,
                 "messageKeys": {}
               },
               "BT90J0ohxjFJkmkiQt7ZFZYRoAjz3IVxzpC7RDU9iSMM": {
                 "chainKey": {
-                  "counter": 9,
-                  "key": "gGqctpcvFWE2PUhEg+xOU8QexzuGGkDJGgdXcroBAMo="
+                  "counter": 1,
+                  "key": "TxvuyvtXOJ9dIvyDjA2T4yYT0hKSZSdg1DWqLEss7aY="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -479,8 +479,8 @@
             "_chains": {
               "BRlI1wL+ChiNwho6eVeXm6r3LvnP8fH6k/Nt3rzqbjRj": {
                 "chainKey": {
-                  "counter": 22,
-                  "key": "Sm10XfX+1u1cdn4DLBU8oXMhYfr1h+Ve+Rh6G5fbmZs="
+                  "counter": 14,
+                  "key": "sGRB0cU8B4KM1K1sv6FY25gy/R6zmAT0YRhCk3iFuns="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -553,8 +553,8 @@
             "_chains": {
               "BQXHWb41NFgySv31a5qXGoS+Zjt26akHoN5qVAG+pgIs": {
                 "chainKey": {
-                  "counter": 15,
-                  "key": "IJA8XjijTUv/HIoggw5za84ixjWfaCHZmHd+Gd5l73k="
+                  "counter": 7,
+                  "key": "R8MLTMmsprTR57XsroRfK6rI4/tNm1ULngfI5S9RXwk="
                 },
                 "chainType": 1,
                 "messageKeys": {}
